@@ -1,2 +1,2 @@
-# synchronousBallMovement
-creating multiplayer game using databases
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
